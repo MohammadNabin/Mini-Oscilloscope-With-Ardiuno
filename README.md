@@ -1,1 +1,1 @@
-# Mini_Oscilloscope_With_Ardiuno
+# Mini-Oscilloscope-With-Ardiuno
